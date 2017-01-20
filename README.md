@@ -1,5 +1,3 @@
-## Future Plans
-
 Saya memiliki 2 rencana untuk saat ini. Yang pertama adalah `short plan` dan yg kedua adalah `future plan`.
 
 ### Short Plan
